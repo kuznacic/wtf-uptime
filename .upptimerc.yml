@@ -7,15 +7,18 @@ sites:
     url: https://wtftechsolutions.com
   - name: Inside The Mind Of Eric Kuznacic
     url: https://erickuznacic.com
+  - name: The Booch Witch
+    url: https://boochwitch.com   
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.wtftechsolutions.com
   #baseUrl: /wtf-uptime
-  logoUrl: https://github.com/kuznacic/wtf-uptime/blob/0a3e96b5c6b8a746b924b92b1d1d2c37437bf91a/assets/WTF-only-with-text-250x92.png
-  name: WTF? Hosting Monitoring
-  introTitle: "This site is for use by clients of WTF? Hosting."
+  logoUrl: https://github.com/kuznacic/wtf-uptime/blob/0a3e96b5c6b8a746b924b92b1d1d2c37437bf91a/assets/WTF-only-with-text-250x92.png?raw=true
+  name: WTF? Hosting Status Monitor
+  introTitle: "This site is for WTF? Hosting clients to monitor their website's uptime and other vital metrics."
   introMessage: This page uses **real-time** data from our [GitHub repository](https://github.com/kuznacic/wtf-uptime).
   navbar:
     - title: Status
