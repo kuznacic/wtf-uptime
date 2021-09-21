@@ -3,12 +3,6 @@ owner: kuznacic # Your GitHub organization or username, where this repository li
 repo: wtf-uptime # The name of this repository
 
 sites:
-  - name: Why The Fuss? Technical Solutions
-    url: https://wtftechsolutions.com
-  - name: Inside The Mind Of Eric Kuznacic
-    url: https://erickuznacic.com
-  - name: The Booch Witch
-    url: https://boochwitch.com
   - name: Alive Wellness Group
     url: https://alivewellnessgroup.com
   - name: Badger Hardwood
@@ -55,7 +49,92 @@ sites:
     url: https://jvlriversidepark.com
   - name: Go Wisconsin Global
     url: https://www.gowisconsinglobal.org
-  
+  - name: Grace Evangelical Free Church
+    url: https://graceevangelicalfree.org
+  - name: HealthNet of Rock County
+    url: http://www.healthnet-rock.org
+  - name: High Class Grass
+    url: https://high-classgrass.com
+  - name: HOPE Child & Family Counseling
+    url: https://hopechildandfamilycounseling.com
+  - name: Hunt-N-Gear
+    url: https://huntngearonline.com
+  - name: Impact Confections
+    url: https://impactconfections.com
+  - name: Inside The Mind Of Eric Kuznacic
+    url: https://erickuznacic.com
+  - name: IV Careers
+    url: https://ivcareers.com
+  - name: Janesville Lions Club
+    url: https://janesvillelions.org
+  - name: Jeffris Foundation
+    url: https://www.jeffrisfoundation.org
+  - name: JLA Architects
+    url: https://jla-ap.com
+  - name: Ken Johnson DDS
+    url: https://www.kenjohnsondds.com
+  - name: Ketamine Health Centers
+    url: https://ketaminehealthcenters.com
+  - name: Leadership Development Academy
+    url: http://ldarock.com
+  - name: Little Luzon
+    url: https://littleluzon.com
+  - name: LWML-NID
+    url: https://lwmlnid.org
+  - name: Maker Matt Home
+    url: http://www.makermatthome.com
+  - name: Midwest Veterinary Dental Services
+    url: https://www.midwestvetdental.com
+  - name: Milwaukee Grill
+    url: https://milwaukeegrill.com
+  - name: New York Juvenile Asylum
+    url: https://newyorkjuvenileasylum.com
+  - name: Pink Houses
+    url: https://pinkhouses.net
+  - name: Project 16:49
+    url: https://project1649.org
+  - name: Quivering Moon
+    url: http://www.quiveringmoon.com
+  - name: RBG Holiday Light Show
+    url: https://rbgholidaylightshow.com
+  - name: Revels Consulting
+    url: https://revelsconsulting.com
+  - name: Rock Co. Historical Society
+    url: https://rchs.us
+  - name: Rock Co. Rifle & Pistol Club
+    url: http://www.rcrpc.com
+  - name: Rock County Shot
+    url: https://rockcountyshot.com
+  - name: Rock Valley HVAC
+    url: https://rvhvacinc.com
+  - name: Rotary Botanical Gardens
+    url: https://rotarybotanicalgardens.org
+  - name: SMR Photography
+    url: https://www.smrphotography.com
+  - name: St. John Lutheran Church
+    url: https://www.sjlc-elca.org
+  - name: SummerStage of Delafield
+    url: https://summerstageofdelafield.org
+  - name: Tessagen
+    url: http://www.tessagen.com
+  - name: The Booch Witch
+    url: https://boochwitch.com
+  - name: Thompson's Hemp Co.
+    url: https://thompsonshempco.com
+  - name: Town of Eau Galle
+    url: https://www.townofeaugalle.org
+  - name: United Way Blackhawk Region
+    url: https://liveunitedbr.org
+  - name: US Stem Cell Clinic
+    url: https://usstemcellclinic.com
+  - name: Waukesha Co. Community Foundation
+    url: https://waukeshafoundation.org
+  - name: WFVC
+    url: https://www.wisconsinforvaccinechoice.org
+  - name: Why The Fuss? Technical Solutions
+    url: https://wtftechsolutions.com
+  - name: WTF? Hosting
+    url: https://whythefusshosting.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -64,10 +143,10 @@ status-website:
   #baseUrl: /wtf-uptime
   logoUrl: https://github.com/kuznacic/wtf-uptime/blob/0a3e96b5c6b8a746b924b92b1d1d2c37437bf91a/assets/WTF-only-with-text-250x92.png?raw=true
   name: WTF? Hosting Status Monitor
-  introTitle: "This site is for WTF? Hosting clients to monitor their website's uptime and other vital metrics."
+  introTitle: "This site is for WTF? Hosting clients to monitor their website's uptime and other vital metrics. Each monitor runs approximately every 5 minutes."
   introMessage: This page uses **real-time** data from our [GitHub repository](https://github.com/kuznacic/wtf-uptime).
   navbar:
-    - title: Status
+    - title: Status Home
       href: /
     - title: WTF? Home
       href: https://wtftechsolutions.com/
