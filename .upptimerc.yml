@@ -8,8 +8,54 @@ sites:
   - name: Inside The Mind Of Eric Kuznacic
     url: https://erickuznacic.com
   - name: The Booch Witch
-    url: https://boochwitch.com   
-    
+    url: https://boochwitch.com
+  - name: Alive Wellness Group
+    url: https://alivewellnessgroup.com
+  - name: Badger Hardwood
+    url: https://www.badgerwood.com
+  - name: Better Brodhead
+    url: https://betterbrodhead.org
+  - name: Biohackers Fitness
+    url: https://biohackersfitness.com
+  - name: Biohackers Warehouse
+    url: https://biohackerswarehouse.com
+  - name: Break-Free Health & Wellness
+    url: https://breakfree-healthandwellness.com
+  - name: Cecelia's Golf Course
+    url: https://ceceliasgolf.com
+  - name: Community Foundation of Southern Wisconsin
+    url: https://cfsw.org
+  - name: CG Ministry
+    url: https://www.cgministry-inchrist.com
+  - name: Children's Museum of Rock County
+    url: https://kidsatplayrc.com
+  - name: Colecago
+    url: https://blog.colecago.com
+  - name: Coming Through The Fog
+    url: https://www.comingthroughthefog.com
+  - name: Community Action, Inc. (hosted elsewhere)
+    url: https://community-action.org
+  - name: Community Health Systems
+    url: https://www.chsofwi.org
+  - name: Cornerstone of Hope
+    url: https://csohwi.com
+  - name: Crist Real Estate Group
+    url: https://cristrealestategroup.com
+  - name: Diversity Action Team
+    url: https://www.datrockco.org
+  - name: Don Vruwink for Assembly
+    url: https://donvruwinkforassembly.com
+  - name: Earthsong Books and Gifts
+    url: https://earthsongbooksandgifts.com
+  - name: ECHO of Janesville
+    url: https://echojanesville.org
+  - name: Foundation for the Preservation of 108 South Jackson
+    url: https://www.janesvillewomansclub.com
+  - name: Friends of Riverside Park
+    url: https://jvlriversidepark.com
+  - name: Go Wisconsin Global
+    url: https://www.gowisconsinglobal.org
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
