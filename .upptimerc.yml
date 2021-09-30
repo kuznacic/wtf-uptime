@@ -61,7 +61,7 @@ sites:
     url: https://huntngearonline.com
   - name: Impact Confections
     url: https://impactconfections.com
-  - name: Inside The Mind Of Eric Kuznacic - test
+  - name: Inside The Mind Of Eric Kuznacic
     url: https://erickuznacic.com
   - name: IV Careers
     url: https://ivcareers.com
@@ -152,6 +152,10 @@ status-website:
       href: https://wtftechsolutions.com/
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
+
+notifications:
+  - type: slack
+    channel: G6PR66U07
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
