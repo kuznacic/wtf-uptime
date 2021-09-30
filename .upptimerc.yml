@@ -49,6 +49,10 @@ sites:
     url: https://jvlriversidepark.com
   - name: Go Wisconsin Global
     url: https://www.gowisconsinglobal.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Grace Evangelical Free Church
     url: https://graceevangelicalfree.org
   - name: HealthNet of Rock County
@@ -156,6 +160,8 @@ status-website:
 notifications:
   - type: slack
     channel: G6PR66U07
+
+robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
