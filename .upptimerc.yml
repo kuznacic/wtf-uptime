@@ -105,6 +105,10 @@ sites:
     url: https://revelsconsulting.com
   - name: Rock Co. Historical Society
     url: https://rchs.us
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Rock Co. Rifle & Pistol Club
     url: http://www.rcrpc.com
   - name: Rock County Shot
