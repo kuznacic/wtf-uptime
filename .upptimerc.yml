@@ -129,6 +129,10 @@ sites:
     url: https://boochwitch.com
   - name: Thompson's Hemp Co.
     url: https://thompsonshempco.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Town of Eau Galle
     url: https://www.townofeaugalle.org
   - name: United Way Blackhawk Region
