@@ -141,8 +141,8 @@ sites:
     url: https://www.wisconsinforvaccinechoice.org
   - name: Why The Fuss? Technical Solutions
     url: https://wtftechsolutions.com
-  #- name: WTF? Hosting
-   # url: https://whythefusshosting.com
+  - name: WTF? Hosting
+    url: https://whythefusshosting.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
