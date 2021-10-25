@@ -160,7 +160,7 @@ status-website:
       href: https://wtftechsolutions.com/
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
-#  js: "function contains(t,n){var e=document.querySelectorAll(t);return Array.prototype.filter.call(e,function(t){return RegExp(n).test(t.textContent)})}window.onload = function() {setTimeout(function(){foundDivsActiveIncidents=contains('section','Active Incidents');foundDivsActiveIncidents[0].remove();foundDivsPastIncidents=contains('section','Past Incidents');foundDivsPastIncidents[0].remove();}, 5000);}"
+  js: "function contains(t,n){var e=document.querySelectorAll(t);return Array.prototype.filter.call(e,function(t){return RegExp(n).test(t.textContent)})}window.onload = function() {setTimeout(function(){foundDivsActiveIncidents=contains('section','Active Incidents');foundDivsActiveIncidents[0].remove();foundDivsPastIncidents=contains('section','Past Incidents');foundDivsPastIncidents[0].remove();}, 5000);}"
       
 notifications:
   - type: slack
