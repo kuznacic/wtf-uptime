@@ -514,9 +514,9 @@
     "url": "https://impactconfections.com",
     "icon": "https://favicons.githubusercontent.com/impactconfections.com",
     "slug": "impact-confections",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -525,7 +525,9 @@
     "timeWeek": 468,
     "timeMonth": 374,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-30": 1
+    }
   },
   {
     "name": "Inside The Mind Of Eric Kuznacic",
@@ -877,11 +879,11 @@
     "icon": "https://favicons.githubusercontent.com/rchs.us",
     "slug": "rock-co-historical-society",
     "status": "down",
-    "uptime": "85.27%",
+    "uptime": "85.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.27%",
+    "uptimeYear": "85.34%",
     "time": 94,
     "timeDay": 73,
     "timeWeek": 104,
