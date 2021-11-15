@@ -879,11 +879,11 @@
     "icon": "https://favicons.githubusercontent.com/rchs.us",
     "slug": "rock-co-historical-society",
     "status": "down",
-    "uptime": "89.63%",
+    "uptime": "89.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.63%",
+    "uptimeYear": "89.71%",
     "time": 94,
     "timeDay": 67,
     "timeWeek": 103,
@@ -1066,10 +1066,10 @@
     "url": "https://www.townofeaugalle.org",
     "icon": "https://favicons.githubusercontent.com/www.townofeaugalle.org",
     "slug": "town-of-eau-galle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -1077,7 +1077,9 @@
     "timeWeek": 385,
     "timeMonth": 325,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 1
+    }
   },
   {
     "name": "United Way Blackhawk Region",
