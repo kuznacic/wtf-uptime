@@ -1013,19 +1013,19 @@
     "url": "https://summerstageofdelafield.org",
     "icon": "https://favicons.githubusercontent.com/summerstageofdelafield.org",
     "slug": "summer-stage-of-delafield",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 260,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 396,
+    "timeDay": 367,
     "timeWeek": 480,
-    "timeMonth": 420,
-    "timeYear": 395,
+    "timeMonth": 422,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2021-11-23": 1
+      "2021-11-23": 7
     }
   },
   {
