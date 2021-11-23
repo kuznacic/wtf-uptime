@@ -880,11 +880,11 @@
     "icon": "https://favicons.githubusercontent.com/rchs.us",
     "slug": "rock-co-historical-society",
     "status": "down",
-    "uptime": "90.96%",
+    "uptime": "90.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.96%",
+    "uptimeYear": "90.98%",
     "time": 96,
     "timeDay": 91,
     "timeWeek": 111,
@@ -1013,10 +1013,10 @@
     "url": "https://summerstageofdelafield.org",
     "icon": "https://favicons.githubusercontent.com/summerstageofdelafield.org",
     "slug": "summer-stage-of-delafield",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
@@ -1024,7 +1024,9 @@
     "timeWeek": 480,
     "timeMonth": 420,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-23": 1
+    }
   },
   {
     "name": "Tessagen",
