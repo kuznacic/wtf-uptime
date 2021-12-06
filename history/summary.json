@@ -821,10 +821,10 @@
     "url": "http://www.quiveringmoon.com",
     "icon": "https://favicons.githubusercontent.com/www.quiveringmoon.com",
     "slug": "quivering-moon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
@@ -832,7 +832,9 @@
     "timeWeek": 421,
     "timeMonth": 557,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-06": 1
+    }
   },
   {
     "name": "RBG Holiday Light Show",
@@ -881,11 +883,11 @@
     "icon": "https://favicons.githubusercontent.com/rchs.us",
     "slug": "rock-co-historical-society",
     "status": "down",
-    "uptime": "92.53%",
+    "uptime": "92.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.53%",
+    "uptimeYear": "92.56%",
     "time": 97,
     "timeDay": 73,
     "timeWeek": 104,
