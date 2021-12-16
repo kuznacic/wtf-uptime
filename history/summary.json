@@ -477,19 +477,19 @@
     "url": "https://hopechildandfamilycounseling.com",
     "icon": "https://favicons.githubusercontent.com/hopechildandfamilycounseling.com",
     "slug": "hope-child-and-family-counseling",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 291,
-    "timeWeek": 307,
-    "timeMonth": 308,
+    "timeDay": 288,
+    "timeWeek": 304,
+    "timeMonth": 307,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2021-12-16": 1
+      "2021-12-16": 6
     }
   },
   {
