@@ -101,8 +101,6 @@ sites:
     url: http://www.quiveringmoon.com
   - name: RBG Holiday Light Show
     url: https://rbgholidaylightshow.com
-  - name: Revels Consulting
-    url: https://revelsconsulting.com
   - name: Rock Co. Historical Society
     url: https://rchs.us
     expectedStatusCodes:
