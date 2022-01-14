@@ -58,18 +58,20 @@
     "url": "https://biohackersfitness.com",
     "icon": "https://favicons.githubusercontent.com/biohackersfitness.com",
     "slug": "biohackers-fitness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 360,
     "timeWeek": 307,
     "timeMonth": 295,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "Biohackers Warehouse",
@@ -244,10 +246,10 @@
     "url": "https://www.chsofwi.org",
     "icon": "https://favicons.githubusercontent.com/www.chsofwi.org",
     "slug": "community-health-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 666,
@@ -255,7 +257,9 @@
     "timeWeek": 449,
     "timeMonth": 445,
     "timeYear": 666,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "Cornerstone of Hope",
@@ -280,10 +284,10 @@
     "url": "https://cristrealestategroup.com",
     "icon": "https://favicons.githubusercontent.com/cristrealestategroup.com",
     "slug": "crist-real-estate-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
@@ -291,7 +295,9 @@
     "timeWeek": 324,
     "timeMonth": 337,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "Diversity Action Team",
@@ -843,18 +849,18 @@
     "icon": "https://favicons.githubusercontent.com/rbgholidaylightshow.com",
     "slug": "rbg-holiday-light-show",
     "status": "down",
-    "uptime": "86.30%",
+    "uptime": "86.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.07%",
-    "uptimeMonth": "51.17%",
-    "uptimeYear": "86.30%",
+    "uptimeMonth": "51.02%",
+    "uptimeYear": "86.27%",
     "time": 889,
     "timeDay": 1654,
     "timeWeek": 2766,
     "timeMonth": 1497,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-01-14": 1064,
+      "2022-01-14": 1128,
       "2022-01-13": 1440,
       "2022-01-12": 1432,
       "2022-01-11": 1440,
@@ -1019,10 +1025,10 @@
     "url": "https://summerstageofdelafield.org",
     "icon": "https://favicons.githubusercontent.com/summerstageofdelafield.org",
     "slug": "summer-stage-of-delafield",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 435,
@@ -1031,6 +1037,7 @@
     "timeMonth": 400,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2022-01-14": 1,
       "2021-11-23": 16
     }
   },
