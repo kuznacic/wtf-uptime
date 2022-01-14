@@ -614,11 +614,11 @@
     "url": "https://jla-ap.com",
     "icon": "https://favicons.githubusercontent.com/jla-ap.com",
     "slug": "jla-architects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 2088,
@@ -626,7 +626,7 @@
     "timeMonth": 399,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-01-14": 8
+      "2022-01-14": 1
     }
   },
   {
@@ -851,18 +851,18 @@
     "icon": "https://favicons.githubusercontent.com/rbgholidaylightshow.com",
     "slug": "rbg-holiday-light-show",
     "status": "down",
-    "uptime": "86.17%",
+    "uptime": "86.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.07%",
-    "uptimeMonth": "50.58%",
-    "uptimeYear": "86.17%",
+    "uptimeMonth": "50.47%",
+    "uptimeYear": "86.14%",
     "time": 889,
     "timeDay": 1654,
     "timeWeek": 2766,
     "timeMonth": 1497,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-01-14": 1319,
+      "2022-01-14": 1367,
       "2022-01-13": 1440,
       "2022-01-12": 1432,
       "2022-01-11": 1440,
