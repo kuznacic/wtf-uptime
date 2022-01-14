@@ -4,18 +4,20 @@
     "url": "https://alivewellnessgroup.com",
     "icon": "https://favicons.githubusercontent.com/alivewellnessgroup.com",
     "slug": "alive-wellness-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 332,
     "timeWeek": 301,
     "timeMonth": 294,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 3
+    }
   },
   {
     "name": "Badger Hardwood",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/biohackersfitness.com",
     "slug": "biohackers-fitness",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 306,
     "timeDay": 360,
     "timeWeek": 307,
     "timeMonth": 295,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-01-14": 2
+      "2022-01-14": 15
     }
   },
   {
@@ -78,18 +80,20 @@
     "url": "https://biohackerswarehouse.com",
     "icon": "https://favicons.githubusercontent.com/biohackerswarehouse.com",
     "slug": "biohackers-warehouse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 479,
     "timeWeek": 400,
     "timeMonth": 375,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "Break-Free Health & Wellness",
@@ -247,18 +251,18 @@
     "icon": "https://favicons.githubusercontent.com/www.chsofwi.org",
     "slug": "community-health-systems",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 666,
     "timeDay": 499,
     "timeWeek": 449,
     "timeMonth": 445,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-01-14": 2
+      "2022-01-14": 14
     }
   },
   {
@@ -284,19 +288,19 @@
     "url": "https://cristrealestategroup.com",
     "icon": "https://favicons.githubusercontent.com/cristrealestategroup.com",
     "slug": "crist-real-estate-group",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 361,
-    "timeWeek": 324,
-    "timeMonth": 337,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 408,
+    "timeDay": 4102,
+    "timeWeek": 1264,
+    "timeMonth": 565,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-01-14": 2
+      "2022-01-14": 13
     }
   },
   {
@@ -849,18 +853,18 @@
     "icon": "https://favicons.githubusercontent.com/rbgholidaylightshow.com",
     "slug": "rbg-holiday-light-show",
     "status": "down",
-    "uptime": "86.27%",
+    "uptime": "86.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.07%",
-    "uptimeMonth": "51.02%",
-    "uptimeYear": "86.27%",
+    "uptimeMonth": "50.99%",
+    "uptimeYear": "86.26%",
     "time": 889,
     "timeDay": 1654,
     "timeWeek": 2766,
     "timeMonth": 1497,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-01-14": 1128,
+      "2022-01-14": 1140,
       "2022-01-13": 1440,
       "2022-01-12": 1432,
       "2022-01-11": 1440,
@@ -1026,18 +1030,18 @@
     "icon": "https://favicons.githubusercontent.com/summerstageofdelafield.org",
     "slug": "summer-stage-of-delafield",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 435,
     "timeDay": 277,
     "timeWeek": 340,
     "timeMonth": 400,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2022-01-14": 1,
+      "2022-01-14": 14,
       "2021-11-23": 16
     }
   },
