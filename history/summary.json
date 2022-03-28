@@ -137,19 +137,19 @@
     "url": "https://cfsw.org",
     "icon": "https://favicons.githubusercontent.com/cfsw.org",
     "slug": "community-foundation-of-southern-wisconsin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 156,
-    "timeWeek": 205,
-    "timeMonth": 259,
+    "timeDay": 217,
+    "timeWeek": 214,
+    "timeMonth": 260,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-03-28": 1
+      "2022-03-28": 6
     }
   },
   {
@@ -878,7 +878,7 @@
     "timeMonth": 2401,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2022-03-28": 1135,
+      "2022-03-28": 1141,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
