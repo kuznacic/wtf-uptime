@@ -346,19 +346,19 @@
     "url": "https://earthsongbooksandgifts.com",
     "icon": "https://favicons.githubusercontent.com/earthsongbooksandgifts.com",
     "slug": "earthsong-books-and-gifts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 180,
-    "timeWeek": 210,
-    "timeMonth": 335,
-    "timeYear": 568,
+    "time": 566,
+    "timeDay": 191,
+    "timeWeek": 209,
+    "timeMonth": 331,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-04-10": 1
+      "2022-04-10": 6
     }
   },
   {
@@ -878,7 +878,7 @@
     "timeMonth": 2653,
     "timeYear": 1439,
     "dailyMinutesDown": {
-      "2022-04-10": 350,
+      "2022-04-10": 356,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
