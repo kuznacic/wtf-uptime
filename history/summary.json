@@ -162,9 +162,9 @@
     "slug": "cg-ministry",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 393,
@@ -172,7 +172,7 @@
     "timeMonth": 353,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2022-05-03": 1
+      "2022-05-03": 8
     }
   },
   {
@@ -267,9 +267,9 @@
     "slug": "community-health-systems",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 582,
     "timeDay": 592,
@@ -277,7 +277,7 @@
     "timeMonth": 441,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-05-03": 1,
+      "2022-05-03": 8,
       "2022-01-14": 24
     }
   },
@@ -888,7 +888,7 @@
     "timeMonth": 2804,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2022-05-03": 1355,
+      "2022-05-03": 1363,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
@@ -1126,10 +1126,10 @@
     "url": "https://www.smrphotography.com",
     "icon": "https://favicons.githubusercontent.com/www.smrphotography.com",
     "slug": "smr-photography",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 535,
@@ -1137,7 +1137,9 @@
     "timeWeek": 524,
     "timeMonth": 457,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 1
+    }
   },
   {
     "name": "St. John Lutheran Church",
