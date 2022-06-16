@@ -89,7 +89,7 @@
     "uptime": "92.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.08%",
+    "uptimeMonth": "31.02%",
     "uptimeYear": "92.16%",
     "time": 388,
     "timeDay": 310,
@@ -97,7 +97,7 @@
     "timeMonth": 263,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-06-16": 959,
+      "2022-06-16": 986,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -476,19 +476,19 @@
     "url": "https://www.gowisconsinglobal.org",
     "icon": "https://favicons.githubusercontent.com/www.gowisconsinglobal.org",
     "slug": "go-wisconsin-global",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1189,
-    "timeDay": 547,
-    "timeWeek": 823,
-    "timeMonth": 997,
+    "timeDay": 625,
+    "timeWeek": 833,
+    "timeMonth": 996,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2022-06-16": 8,
+      "2022-06-16": 34,
       "2021-09-21": 60
     }
   },
@@ -774,18 +774,18 @@
     "icon": "https://favicons.githubusercontent.com/littleluzon.com",
     "slug": "little-luzon",
     "status": "down",
-    "uptime": "94.43%",
+    "uptime": "94.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.99%",
-    "uptimeYear": "94.43%",
+    "uptimeMonth": "50.92%",
+    "uptimeYear": "94.42%",
     "time": 333,
     "timeDay": 964,
     "timeWeek": 904,
     "timeMonth": 571,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2022-06-16": 959,
+      "2022-06-16": 987,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -978,7 +978,7 @@
     "timeMonth": 2755,
     "timeYear": 1723,
     "dailyMinutesDown": {
-      "2022-06-16": 960,
+      "2022-06-16": 987,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -1220,7 +1220,7 @@
     "timeMonth": 198,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-06-16": 960,
+      "2022-06-16": 988,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -1261,18 +1261,16 @@
     "slug": "rock-valley-hvac",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
     "timeDay": 356,
     "timeWeek": 347,
     "timeMonth": 342,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2022-06-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rotary Botanical Gardens",
@@ -1281,18 +1279,16 @@
     "slug": "rotary-botanical-gardens",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 244,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2022-06-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMR Photography",
@@ -1323,18 +1319,16 @@
     "slug": "st-john-lutheran-church",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
     "timeDay": 249,
     "timeWeek": 239,
     "timeMonth": 252,
     "timeYear": 474,
-    "dailyMinutesDown": {
-      "2022-06-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SummerStage of Delafield",
@@ -1365,18 +1359,16 @@
     "slug": "tessagen",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 424,
     "timeWeek": 355,
     "timeMonth": 492,
     "timeYear": 709,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Booch Witch",
@@ -1385,18 +1377,16 @@
     "slug": "the-booch-witch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 204,
     "timeWeek": 222,
     "timeMonth": 242,
     "timeYear": 293,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Town of Eau Galle",
@@ -1405,18 +1395,16 @@
     "slug": "town-of-eau-galle",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 258,
     "timeWeek": 249,
     "timeMonth": 266,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "United Way Blackhawk Region",
@@ -1425,18 +1413,16 @@
     "slug": "united-way-blackhawk-region",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 252,
     "timeWeek": 304,
     "timeMonth": 345,
     "timeYear": 368,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "US Stem Cell Clinic",
@@ -1492,18 +1478,16 @@
     "slug": "wfvc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
     "timeDay": 395,
     "timeWeek": 304,
     "timeMonth": 373,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Why The Fuss? Technical Solutions",
@@ -1512,18 +1496,16 @@
     "slug": "why-the-fuss-technical-solutions",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
     "timeDay": 192,
     "timeWeek": 195,
     "timeMonth": 206,
     "timeYear": 259,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WTF? Hosting",
@@ -1532,17 +1514,15 @@
     "slug": "wtf-hosting",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1094,
     "timeDay": 380,
     "timeWeek": 752,
     "timeMonth": 862,
     "timeYear": 1094,
-    "dailyMinutesDown": {
-      "2022-06-16": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
