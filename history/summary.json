@@ -44,19 +44,19 @@
     "url": "https://betterbrodhead.org",
     "icon": "https://favicons.githubusercontent.com/betterbrodhead.org",
     "slug": "better-brodhead",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 235,
-    "timeWeek": 251,
-    "timeMonth": 257,
+    "timeDay": 250,
+    "timeWeek": 256,
+    "timeMonth": 258,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -89,7 +89,7 @@
     "uptime": "92.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.10%",
+    "uptimeMonth": "31.08%",
     "uptimeYear": "92.16%",
     "time": 388,
     "timeDay": 310,
@@ -97,7 +97,7 @@
     "timeMonth": 263,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-06-16": 953,
+      "2022-06-16": 959,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -145,19 +145,19 @@
     "url": "https://ceceliasgolf.com",
     "icon": "https://favicons.githubusercontent.com/ceceliasgolf.com",
     "slug": "cecelia-s-golf-course",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 173,
-    "timeWeek": 202,
-    "timeMonth": 213,
-    "timeYear": 235,
+    "time": 234,
+    "timeDay": 169,
+    "timeWeek": 197,
+    "timeMonth": 212,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -165,19 +165,19 @@
     "url": "https://cfsw.org",
     "icon": "https://favicons.githubusercontent.com/cfsw.org",
     "slug": "community-foundation-of-southern-wisconsin",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 247,
-    "timeDay": 184,
+    "timeDay": 192,
     "timeWeek": 218,
     "timeMonth": 232,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2022-06-16": 2,
+      "2022-06-16": 7,
       "2022-04-13": 35,
       "2022-04-12": 18
     }
@@ -209,19 +209,19 @@
     "url": "https://kidsatplayrc.com",
     "icon": "https://favicons.githubusercontent.com/kidsatplayrc.com",
     "slug": "children-s-museum-of-rock-county",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 184,
-    "timeWeek": 237,
-    "timeMonth": 361,
+    "timeDay": 193,
+    "timeWeek": 236,
+    "timeMonth": 358,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -247,19 +247,19 @@
     "url": "https://www.comingthroughthefog.com",
     "icon": "https://favicons.githubusercontent.com/www.comingthroughthefog.com",
     "slug": "coming-through-the-fog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 119,
-    "timeWeek": 220,
-    "timeMonth": 301,
-    "timeYear": 387,
+    "time": 386,
+    "timeDay": 122,
+    "timeWeek": 212,
+    "timeMonth": 297,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -322,19 +322,19 @@
     "url": "https://csohwi.com",
     "icon": "https://favicons.githubusercontent.com/csohwi.com",
     "slug": "cornerstone-of-hope",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 214,
-    "timeWeek": 247,
-    "timeMonth": 245,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 209,
+    "timeWeek": 242,
+    "timeMonth": 244,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -378,19 +378,19 @@
     "url": "https://donvruwinkforassembly.com",
     "icon": "https://favicons.githubusercontent.com/donvruwinkforassembly.com",
     "slug": "don-vruwink-for-assembly",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 177,
-    "timeWeek": 194,
-    "timeMonth": 215,
+    "timeDay": 172,
+    "timeWeek": 190,
+    "timeMonth": 213,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -398,19 +398,19 @@
     "url": "https://earthsongbooksandgifts.com",
     "icon": "https://favicons.githubusercontent.com/earthsongbooksandgifts.com",
     "slug": "earthsong-books-and-gifts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 164,
-    "timeWeek": 170,
-    "timeMonth": 305,
-    "timeYear": 520,
+    "time": 518,
+    "timeDay": 159,
+    "timeWeek": 167,
+    "timeMonth": 300,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -418,19 +418,19 @@
     "url": "https://echojanesville.org",
     "icon": "https://favicons.githubusercontent.com/echojanesville.org",
     "slug": "echo-of-janesville",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 218,
-    "timeWeek": 238,
-    "timeMonth": 271,
+    "timeWeek": 236,
+    "timeMonth": 270,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -456,19 +456,19 @@
     "url": "https://jvlriversidepark.com",
     "icon": "https://favicons.githubusercontent.com/jvlriversidepark.com",
     "slug": "friends-of-riverside-park",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 159,
-    "timeWeek": 161,
-    "timeMonth": 181,
+    "timeDay": 173,
+    "timeWeek": 167,
+    "timeMonth": 183,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -478,9 +478,9 @@
     "slug": "go-wisconsin-global",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1189,
     "timeDay": 547,
@@ -488,7 +488,7 @@
     "timeMonth": 997,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2022-06-16": 2,
+      "2022-06-16": 8,
       "2021-09-21": 60
     }
   },
@@ -537,19 +537,19 @@
     "url": "https://high-classgrass.com",
     "icon": "https://favicons.githubusercontent.com/high-classgrass.com",
     "slug": "high-class-grass",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 149,
-    "timeWeek": 381,
-    "timeMonth": 286,
-    "timeYear": 302,
+    "time": 301,
+    "timeDay": 141,
+    "timeWeek": 356,
+    "timeMonth": 281,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -575,19 +575,19 @@
     "url": "https://huntngearonline.com",
     "icon": "https://favicons.githubusercontent.com/huntngearonline.com",
     "slug": "hunt-n-gear",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 391,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 390,
     "timeDay": 198,
-    "timeWeek": 218,
-    "timeMonth": 256,
-    "timeYear": 391,
+    "timeWeek": 217,
+    "timeMonth": 255,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-06-16": 3,
+      "2022-06-16": 7,
       "2021-10-14": 13
     }
   },
@@ -596,19 +596,19 @@
     "url": "https://impactconfections.com",
     "icon": "https://favicons.githubusercontent.com/impactconfections.com",
     "slug": "impact-confections",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 279,
-    "timeDay": 188,
-    "timeWeek": 236,
-    "timeMonth": 264,
+    "timeDay": 194,
+    "timeWeek": 234,
+    "timeMonth": 263,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-06-16": 3,
+      "2022-06-16": 7,
       "2022-06-01": 70
     }
   },
@@ -617,19 +617,19 @@
     "url": "https://erickuznacic.com",
     "icon": "https://favicons.githubusercontent.com/erickuznacic.com",
     "slug": "inside-the-mind-of-eric-kuznacic",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 241,
-    "timeWeek": 268,
-    "timeMonth": 464,
-    "timeYear": 676,
+    "time": 675,
+    "timeDay": 249,
+    "timeWeek": 269,
+    "timeMonth": 459,
+    "timeYear": 675,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -655,19 +655,19 @@
     "url": "https://janesvillelions.org",
     "icon": "https://favicons.githubusercontent.com/janesvillelions.org",
     "slug": "janesville-lions-club",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 199,
-    "timeWeek": 246,
-    "timeMonth": 288,
-    "timeYear": 406,
+    "time": 405,
+    "timeDay": 201,
+    "timeWeek": 242,
+    "timeMonth": 286,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -675,19 +675,19 @@
     "url": "https://www.jeffrisfoundation.org",
     "icon": "https://favicons.githubusercontent.com/www.jeffrisfoundation.org",
     "slug": "jeffris-foundation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 222,
-    "timeWeek": 226,
-    "timeMonth": 265,
+    "timeDay": 237,
+    "timeWeek": 233,
+    "timeMonth": 266,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2022-06-16": 2
+      "2022-06-16": 7
     }
   },
   {
@@ -715,19 +715,19 @@
     "url": "https://www.kenjohnsondds.com",
     "icon": "https://favicons.githubusercontent.com/www.kenjohnsondds.com",
     "slug": "ken-johnson-dds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 136,
-    "timeWeek": 148,
-    "timeMonth": 270,
-    "timeYear": 407,
+    "time": 406,
+    "timeDay": 145,
+    "timeWeek": 151,
+    "timeMonth": 268,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -753,19 +753,19 @@
     "url": "http://ldarock.com",
     "icon": "https://favicons.githubusercontent.com/ldarock.com",
     "slug": "leadership-development-academy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 240,
-    "timeWeek": 298,
-    "timeMonth": 355,
+    "timeDay": 246,
+    "timeWeek": 295,
+    "timeMonth": 352,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -777,7 +777,7 @@
     "uptime": "94.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.00%",
+    "uptimeMonth": "50.99%",
     "uptimeYear": "94.43%",
     "time": 333,
     "timeDay": 964,
@@ -785,7 +785,7 @@
     "timeMonth": 571,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2022-06-16": 954,
+      "2022-06-16": 959,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -808,19 +808,19 @@
     "url": "https://lwmlnid.org",
     "icon": "https://favicons.githubusercontent.com/lwmlnid.org",
     "slug": "lwml-nid",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 269,
-    "timeWeek": 387,
-    "timeMonth": 295,
+    "timeDay": 257,
+    "timeWeek": 371,
+    "timeMonth": 293,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -848,19 +848,19 @@
     "url": "https://www.midwestvetdental.com",
     "icon": "https://favicons.githubusercontent.com/www.midwestvetdental.com",
     "slug": "midwest-veterinary-dental-services",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 442,
-    "timeWeek": 415,
-    "timeMonth": 483,
-    "timeYear": 684,
+    "time": 683,
+    "timeDay": 425,
+    "timeWeek": 410,
+    "timeMonth": 479,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -868,19 +868,19 @@
     "url": "https://milwaukeegrill.com",
     "icon": "https://favicons.githubusercontent.com/milwaukeegrill.com",
     "slug": "milwaukee-grill",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 162,
-    "timeWeek": 175,
-    "timeMonth": 184,
+    "timeDay": 153,
+    "timeWeek": 169,
+    "timeMonth": 182,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -906,19 +906,19 @@
     "url": "https://pinkhouses.net",
     "icon": "https://favicons.githubusercontent.com/pinkhouses.net",
     "slug": "pink-houses",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 206,
-    "timeWeek": 205,
-    "timeMonth": 216,
-    "timeYear": 247,
+    "time": 246,
+    "timeDay": 186,
+    "timeWeek": 195,
+    "timeMonth": 213,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -926,19 +926,19 @@
     "url": "https://project1649.org",
     "icon": "https://favicons.githubusercontent.com/project1649.org",
     "slug": "project-16-49",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 237,
-    "timeWeek": 230,
-    "timeMonth": 279,
-    "timeYear": 392,
+    "time": 391,
+    "timeDay": 235,
+    "timeWeek": 229,
+    "timeMonth": 278,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -978,7 +978,7 @@
     "timeMonth": 2755,
     "timeYear": 1723,
     "dailyMinutesDown": {
-      "2022-06-16": 955,
+      "2022-06-16": 960,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -1188,19 +1188,19 @@
     "url": "http://www.rcrpc.com",
     "icon": "https://favicons.githubusercontent.com/www.rcrpc.com",
     "slug": "rock-co-rifle-and-pistol-club",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 302,
-    "timeWeek": 252,
-    "timeMonth": 396,
+    "timeDay": 278,
+    "timeWeek": 246,
+    "timeMonth": 390,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -1209,18 +1209,18 @@
     "icon": "https://favicons.githubusercontent.com/rockcountyshot.com",
     "slug": "rock-county-shot",
     "status": "down",
-    "uptime": "88.48%",
+    "uptime": "88.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.48%",
+    "uptimeYear": "88.47%",
     "time": 248,
     "timeDay": 270,
     "timeWeek": 206,
     "timeMonth": 198,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-06-16": 955,
+      "2022-06-16": 960,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -1259,19 +1259,19 @@
     "url": "https://rvhvacinc.com",
     "icon": "https://favicons.githubusercontent.com/rvhvacinc.com",
     "slug": "rock-valley-hvac",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 371,
-    "timeWeek": 352,
-    "timeMonth": 343,
+    "timeDay": 356,
+    "timeWeek": 347,
+    "timeMonth": 342,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -1279,19 +1279,19 @@
     "url": "https://rotarybotanicalgardens.org",
     "icon": "https://favicons.githubusercontent.com/rotarybotanicalgardens.org",
     "slug": "rotary-botanical-gardens",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 232,
-    "timeWeek": 247,
-    "timeMonth": 250,
+    "timeDay": 244,
+    "timeWeek": 251,
+    "timeMonth": 251,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -1321,19 +1321,19 @@
     "url": "https://www.sjlc-elca.org",
     "icon": "https://favicons.githubusercontent.com/www.sjlc-elca.org",
     "slug": "st-john-lutheran-church",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 240,
-    "timeWeek": 234,
-    "timeMonth": 251,
-    "timeYear": 475,
+    "time": 474,
+    "timeDay": 249,
+    "timeWeek": 239,
+    "timeMonth": 252,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 7
     }
   },
   {
@@ -1363,19 +1363,19 @@
     "url": "http://www.tessagen.com",
     "icon": "https://favicons.githubusercontent.com/www.tessagen.com",
     "slug": "tessagen",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 492,
-    "timeWeek": 375,
-    "timeMonth": 502,
-    "timeYear": 711,
+    "time": 709,
+    "timeDay": 424,
+    "timeWeek": 355,
+    "timeMonth": 492,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   },
   {
@@ -1383,19 +1383,19 @@
     "url": "https://boochwitch.com",
     "icon": "https://favicons.githubusercontent.com/boochwitch.com",
     "slug": "the-booch-witch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 201,
-    "timeWeek": 223,
-    "timeMonth": 243,
+    "timeDay": 204,
+    "timeWeek": 222,
+    "timeMonth": 242,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   },
   {
@@ -1403,19 +1403,19 @@
     "url": "https://www.townofeaugalle.org",
     "icon": "https://favicons.githubusercontent.com/www.townofeaugalle.org",
     "slug": "town-of-eau-galle",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 255,
-    "timeWeek": 247,
+    "timeDay": 258,
+    "timeWeek": 249,
     "timeMonth": 266,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   },
   {
@@ -1423,19 +1423,19 @@
     "url": "https://liveunitedbr.org",
     "icon": "https://favicons.githubusercontent.com/liveunitedbr.org",
     "slug": "united-way-blackhawk-region",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 288,
-    "timeWeek": 323,
-    "timeMonth": 352,
-    "timeYear": 369,
+    "time": 368,
+    "timeDay": 252,
+    "timeWeek": 304,
+    "timeMonth": 345,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   },
   {
@@ -1490,19 +1490,19 @@
     "url": "https://www.wisconsinforvaccinechoice.org",
     "icon": "https://favicons.githubusercontent.com/www.wisconsinforvaccinechoice.org",
     "slug": "wfvc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 417,
+    "time": 491,
+    "timeDay": 395,
     "timeWeek": 304,
-    "timeMonth": 375,
-    "timeYear": 492,
+    "timeMonth": 373,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   },
   {
@@ -1510,19 +1510,19 @@
     "url": "https://wtftechsolutions.com",
     "icon": "https://favicons.githubusercontent.com/wtftechsolutions.com",
     "slug": "why-the-fuss-technical-solutions",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 187,
-    "timeWeek": 193,
+    "timeDay": 192,
+    "timeWeek": 195,
     "timeMonth": 206,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   },
   {
@@ -1530,19 +1530,19 @@
     "url": "https://whythefusshosting.com",
     "icon": "https://favicons.githubusercontent.com/whythefusshosting.com",
     "slug": "wtf-hosting",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 372,
-    "timeWeek": 787,
-    "timeMonth": 875,
-    "timeYear": 1096,
+    "time": 1094,
+    "timeDay": 380,
+    "timeWeek": 752,
+    "timeMonth": 862,
+    "timeYear": 1094,
     "dailyMinutesDown": {
-      "2022-06-16": 3
+      "2022-06-16": 6
     }
   }
 ]
