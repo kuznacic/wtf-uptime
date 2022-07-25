@@ -100,7 +100,7 @@
     "timeMonth": 81,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-07-25": 884,
+      "2022-07-25": 892,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -888,7 +888,7 @@
     "timeMonth": 1052,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2022-07-25": 885,
+      "2022-07-25": 893,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -1122,7 +1122,7 @@
     "timeMonth": 2934,
     "timeYear": 1843,
     "dailyMinutesDown": {
-      "2022-07-25": 885,
+      "2022-07-25": 893,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -1403,7 +1403,7 @@
     "timeMonth": 163,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2022-07-25": 885,
+      "2022-07-25": 893,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -1757,19 +1757,19 @@
     "url": "https://whythefusshosting.com",
     "icon": "https://favicons.githubusercontent.com/whythefusshosting.com",
     "slug": "wtf-hosting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 1088,
-    "timeDay": 1162,
-    "timeWeek": 1333,
-    "timeMonth": 1019,
-    "timeYear": 1088,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1089,
+    "timeDay": 1307,
+    "timeWeek": 1362,
+    "timeMonth": 1031,
+    "timeYear": 1089,
     "dailyMinutesDown": {
-      "2022-07-25": 2,
+      "2022-07-25": 8,
       "2022-06-29": 19
     }
   }
